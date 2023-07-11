@@ -1,0 +1,1 @@
+# elasticsearch_capstone_pipeline_monitoring_log_http
